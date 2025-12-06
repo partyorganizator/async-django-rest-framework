@@ -254,8 +254,8 @@ Please see our [contribution guidelines](CONTRIBUTING.md) to get started.
 ## 📊 Project Status
 
 **Async Integration Roadmap:**
-- ❌ **Phase 1**: Integrate ADRF codebase into `rest_framework.asynchronous/`
-- ❌ **Phase 2**: Leverage `asgiref.sync` for shared utilities (in progress)
+- ✅ **Phase 1**: Integrate ADRF codebase into `rest_framework.asynchronous/`
+- 🚧 **Phase 2**: Leverage `asgiref.sync` for shared utilities (in progress)
 - ❌ **Phase 3**: Context-aware sync/async detection (Django-style)
 - ❌ **Phase 4**: Comprehensive async testing & documentation
 
